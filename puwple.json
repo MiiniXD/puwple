@@ -1,0 +1,36 @@
+{
+    "manifest": {
+        "author": "MiiniXD#7221",
+        "version": "1.0",
+        "name": "puwple",
+        "updater": "https:\/\/raw.githubusercontent.com\/MiiniXD\/puwple-theme\/main\/puwple.json"
+    },
+    "background": {},
+    "fonts": {
+        "ginto_bold": "https:\/\/cdn.discordapp.com\/attachments\/886511784352157699\/904395426881503262\/Inter-Bold.ttf",
+        "ginto_medium": "https:\/\/cdn.discordapp.com\/attachments\/886511784352157699\/904395231917641798\/Inter-SemiBold.ttf",
+        "whitney_bold": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885542769253298256\/Product_Sans_Bold.ttf",
+        "whitney_medium": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885566875986198528\/Cabin-Medium.ttf",
+        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/830401532741812237\/885571543747428432\/Cabin-SemiBold.ttf"
+    },
+    "simple_colors": {
+        "accent": -10771341,
+        "mention_highlight": "#6c3f5d"
+    },
+    "colors": {
+        "primary_dark_800": -15066598,
+        "primary_dark_700": -15066598,
+        "primary_dark_660": -15066598,
+        "primary_dark_630": -15066598,
+        "primary_dark_600": -15066598,
+        "primary_dark_100": -10771341,
+        "primary_dark_400": -10771341,
+        "uikit_settings_item_text_color_light": -10771341,
+        "uikit_btn_text_color_selector": -8935289
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -11825053,
+        "drawable_voice_indicator_speaking": -10771341
+    },
+    "raws": {}
+}
